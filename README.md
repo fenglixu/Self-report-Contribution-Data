@@ -2,7 +2,7 @@
 
 This repo contains the self-report contribution statement data used in paper "Flat Teams Drive Scientific Innovation". The data is collected from four prestigious journals --- Nature, Science, PNAS, PLOS ONE. 
 
-The datasets can be loaded in as pickle file in Python. Example code:
+The datasets can be loaded in as pickle files in Python. Example code:
 ```
 f = open('Nature_Contribution_Data', 'rb')
 nature_data = pickle.load(f)
