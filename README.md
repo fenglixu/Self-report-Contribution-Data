@@ -4,7 +4,7 @@ This repo contains the self-report contribution statement data used in paper "Fl
 
 The datasets can be loaded in as pickle file in Python. Example code:
 ```
-f = open('Processed_Data_Nature', 'rb')
+f = open('Nature_Contribution_Data', 'rb')
 nature_data = pickle.load(f)
 f.close()
 ```
