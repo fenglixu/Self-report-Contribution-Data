@@ -13,3 +13,10 @@ Data structure:
 ```
 [Paper DOI, Paper Url/Index, Paper Title, List of Authors, Contribution Text/Dictionary]
 ```
+
+The PLOS ONE dataset is extracted from data published in a previous work:
+```
+E. A. Corrêa Jr, F. N. Silva, L. da F. Costa and D. R. Amancio 
+Arxiv:1609.05545, 2016.
+http://arxiv.org/abs/1609.05545
+```
